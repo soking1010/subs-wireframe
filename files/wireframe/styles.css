@@ -559,8 +559,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:693px;
-  height:140px;
+  width:199px;
+  height:60px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -574,15 +574,15 @@
   position:absolute;
   left:28px;
   top:624px;
-  width:693px;
-  height:140px;
+  width:199px;
+  height:60px;
 }
 #u17_text {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:693px;
+  width:199px;
   white-space:nowrap;
 }
 #u18_div {
